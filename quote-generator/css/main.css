@@ -1,0 +1,86 @@
+body {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  border: 0;
+  background-color: #207178;
+  text-align: center;
+}
+
+.wrapper {
+  position: relative;
+  border-radius: 3px;
+  margin: 25vh auto 0;
+  background: white;
+  height: auto;
+  padding: 30px 30px 80px;
+  width: 30vw;
+  min-width: 300px;
+}
+
+#quoteBox {
+  color: #207178;
+  font-size: 24px;
+}
+
+.quoteLeft {
+  font-size: 1.2em;
+}
+
+#quotation {
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+#author {
+  font-style: italic;
+  color: #207178;
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+ul {
+  display: inline-block;
+  float: left;
+  margin: 0;
+  padding: 0;
+
+}
+
+ul li {
+  display: inline-block;
+  list-style:none;
+  margin: 10px 5px 10px 0px;
+
+}
+
+
+i.fa-tumblr {
+  font-size: 1.5em;
+  padding: 8px 13px 8px 12px;
+}
+
+i.fa-twitter {
+  font-size: 1.5em;
+  padding: 8px 8px 8px 10px;
+}
+
+button#newQuote {
+  float: right;
+  text-decoration: none;
+  padding: 11px 18px;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+}
+
+.linked {
+  color: white;
+  background-color: #207178;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.linked:hover {
+  opacity: 0.8;
+}
