@@ -1,0 +1,177 @@
+/* ==========================================================
+! Buttons
+========================================================== */
+.btn-red{
+	background:#f5ab35;
+	color:#fff;
+	border:2px solid #f5ab35;
+	border-radius:5px;
+}
+.btn-red:hover{
+	background:#f6bb5e;
+	border:2px solid #f6bb5e;
+}
+.btn-white:hover{
+	background:#f6bb5e;
+	border:2px solid #f6bb5e;
+}
+/* ==========================================================
+! section header
+========================================================== */
+
+ .header_line{
+	background:#f5ab35;
+}
+
+/* ==========================================================
+! FEATURES
+========================================================== */
+
+.feature_i{
+
+	border:2px solid #f5ab35;
+	
+}
+
+
+
+.feature_i:after {
+	
+	box-shadow: 0 0 0 2px #f5ab35;
+	
+}
+.feature_i:hover {
+	background: #f5ab35;
+	
+}
+
+
+.f_icon{
+	color:#f5ab35;
+	
+}
+
+/* ==========================================================
+! PORTFOLIO
+========================================================== */
+
+.filter.active, .filter:hover{
+	background:#f5ab35;
+  }
+  
+  .portfolio_item .port_item_cont {
+    background-color: rgba(245, 171, 53, 0.8);
+	}
+/* ==========================================================
+! COUNTER
+========================================================== */
+.count_icon{
+	background:#f5ab35;
+}
+.c_line{
+	background:#f5ab35;
+}
+/* ==========================================================
+! OUR TEAM
+========================================================== */
+
+.team_item .team_item_cont {
+   
+    background-color: rgba(245, 171, 53, 0.8);
+   
+	}
+/* ==========================================================
+ ! PRICE TABLE
+===========================================================*/
+.standout .plan_title{
+	background:#f5ab35;
+	}
+.plane_line span{
+	background:#f5ab35;
+}
+	.standout .plan_inner{
+	background:#9A773E;
+}
+.standout .plan_inner li.label{
+	color:#f5ab35;
+}
+.standout .plan_inner .btn_plane{
+	background:#f5ab35;
+	border:2px solid #f5ab35;
+	}
+/* ==========================================================
+! TIMELINE
+========================================================== */	
+.timeline_container .year span{
+	background:#f5ab35;
+}
+.timeline_container .timeline_item:hover{
+	background:#f5ab35;
+  }
+  .timeline_container .left .timeline_item  .time_pin:before{
+	border:3px solid #f5ab35;
+  }
+  
+   .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #f5ab35;
+  }
+ .timeline_container .right .timeline_item  .time_pin:before{
+	
+	border:3px solid #f5ab35;
+	
+  }
+  .timeline_container .right .timeline_item:hover:before{
+	border-color: transparent #f5ab35 transparent transparent;
+	
+  }
+ .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #f5ab35;
+	
+  }
+
+
+ /* ==========================================================
+! CONTACTS
+========================================================== */
+input[type=text]:focus, textarea:focus {
+	border-bottom:2px solid #f5ab35;
+	
+}
+.inner-addon .fa {
+  color:#f5ab35;
+}
+/* ==========================================================
+! GOOGLE MAP
+========================================================== */
+.map-footer{
+	background:rgba(245, 171, 53, 0.8);
+}
+
+.social-wrap a:hover{
+	color:#f5ab35;
+	border:2px solid #f5ab35;
+ 
+}	
+/* ==========================================================
+! COMMENTS
+========================================================== */
+.u-profile a{
+	color:#f5ab35;
+}
+.flex-control-paging li a.flex-active{
+	border:2px solid #f5ab35;
+}
+.flex-control-paging li a:hover {
+ border:2px solid #f5ab35;
+}
+.u-comment{background-image: url(../../images/openquote3.png);}
+.u-comment > div{
+	background-image: url(../../images/closequote3.png);
+}
+/* ==========================================================
+! PURCHASE
+========================================================== */
+.purchase_i{
+	border:2px solid #f5ab35;
+	
+}

@@ -1,0 +1,169 @@
+/* ==========================================================
+! Buttons
+========================================================== */
+.btn-red{
+	background:#d64541;
+	color:#fff;
+	border:2px solid #d64541;
+	border-radius:5px;
+}
+.btn-red:hover{
+	background:#e95d59;
+	border:2px solid #e95d59;
+}
+.btn-white:hover{
+	background:#d64541;
+	border:2px solid #d64541;
+}
+/* ==========================================================
+! section header
+========================================================== */
+
+ .header_line{
+	background:#d64541;
+}
+
+/* ==========================================================
+! FEATURES
+========================================================== */
+
+.feature_i{
+
+	border:2px solid #d64541;
+
+}
+
+
+
+.feature_i:after {
+
+	box-shadow: 0 0 0 2px #d64541;
+
+}
+.feature_i:hover {
+	background: #d64541;
+
+}
+
+
+.f_icon{
+	color:#d64541;
+
+}
+
+/* ==========================================================
+! PORTFOLIO
+========================================================== */
+
+.filter.active, .filter:hover{
+	background:#d64541;
+  }
+
+  .portfolio_item .port_item_cont {
+    background-color: rgba(214, 69, 65, 0.8);
+	}
+/* ==========================================================
+! COUNTER
+========================================================== */
+.count_icon{
+	background:#784246;
+}
+.c_line{
+	background:#d64541;
+}
+
+/* ==========================================================
+ ! PRICE TABLE
+===========================================================*/
+.standout .plan_title{
+	background:#873537;
+	}
+.plane_line span{
+	background:#d64541;
+}
+	.standout .plan_inner{
+	background:#983c3e;
+}
+.standout .plan_inner li.label{
+	color:#bb898a;
+}
+.standout .plan_inner .btn_plane{
+	background:#a7595b;
+	border:2px solid #a7595b;
+	}
+/* ==========================================================
+! TIMELINE
+========================================================== */
+.timeline_container .year span{
+	background:#d64541;
+}
+.timeline_container .timeline_item:hover{
+	background:#d64541;
+  }
+  .timeline_container .left .timeline_item  .time_pin:before{
+	border:3px solid #d64541;
+  }
+
+   .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #d64541;
+  }
+ .timeline_container .right .timeline_item  .time_pin:before{
+
+	border:3px solid #d64541;
+
+  }
+  .timeline_container .right .timeline_item:hover:before{
+	border-color: transparent #d64541 transparent transparent;
+
+  }
+ .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #d64541;
+
+  }
+
+
+ /* ==========================================================
+! CONTACTS
+========================================================== */
+input[type=text]:focus, textarea:focus {
+	border-bottom:2px solid #d64541;
+
+}
+.inner-addon .fa {
+  color:#d64541;
+}
+/* ==========================================================
+! GOOGLE MAP
+========================================================== */
+.map-footer{
+	background:rgba(214,69,65,0.8);
+}
+
+.social-wrap a:hover{
+	color:#d64541;
+	border:2px solid #d64541;
+
+}
+/* ==========================================================
+! COMMENTS
+========================================================== */
+.u-profile a{
+	color:#d64541;
+}
+.flex-control-paging li a.flex-active{
+	border:2px solid #d64541;
+}
+.flex-control-paging li a:hover {
+ border:2px solid #d64541;
+}
+.u-comment{background-image: url(../../images/openquote1.png);}
+.u-comment > div{
+	background-image: url(../../images/closequote1.png);
+}
+/* ==========================================================
+! PURCHASE
+========================================================== */
+.purchase_i{
+	border:2px solid #6d363c;
+
+}

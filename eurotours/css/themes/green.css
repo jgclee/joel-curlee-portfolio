@@ -1,0 +1,175 @@
+/* ==========================================================
+! Buttons
+========================================================== */
+.btn-red{
+	background:#78c581;
+	color:#fff;
+	border:2px solid #78c581;
+	border-radius:5px;
+}
+.btn-red:hover{
+	background:#9ef7a8;
+	border:2px solid #9ef7a8;
+}
+.btn-white:hover{
+	background:#9ef7a8;
+	border:2px solid #9ef7a8;
+}
+/* ==========================================================
+! section header
+========================================================== */
+
+ .header_line{
+	background:#78c581;
+}
+
+/* ==========================================================
+! FEATURES
+========================================================== */
+
+.feature_i{
+
+	border:2px solid #78c581;
+	
+}
+
+
+
+.feature_i:after {
+	
+	box-shadow: 0 0 0 2px #78c581;
+	
+}
+.feature_i:hover {
+	background: #78c581;
+	
+}
+
+
+.f_icon{
+	color:#78c581;
+	
+}
+
+/* ==========================================================
+! PORTFOLIO
+========================================================== */
+
+.filter.active, .filter:hover{
+	background:#78c581;
+  }
+  
+  .portfolio_item .port_item_cont {
+    background-color: rgba(120, 197, 129, 0.8);
+	}
+/* ==========================================================
+! COUNTER
+========================================================== */
+.count_icon{
+	background:#78c581;
+}
+.c_line{
+	background:#78c581;
+}
+/* ==========================================================
+! OUR TEAM
+========================================================== */
+
+.team_item .team_item_cont {
+   
+    background-color: rgba(120, 197, 129, 0.8);
+   
+	}
+/* ==========================================================
+ ! PRICE TABLE
+===========================================================*/
+.standout .plan_title{
+	background:#78c581;
+	}
+.plane_line span{
+	background:#78c581;
+}
+	.standout .plan_inner{
+	background:#4F8255;
+}
+.standout .plan_inner li.label{
+	color:#78c581;
+}
+.standout .plan_inner .btn_plane{
+	background:#78c581;
+	border:2px solid #78c581;
+	}
+/* ==========================================================
+! TIMELINE
+========================================================== */	
+.timeline_container .year span{
+	background:#78c581;
+}
+.timeline_container .timeline_item:hover{
+	background:#78c581;
+  }
+  .timeline_container .left .timeline_item  .time_pin:before{
+	border:3px solid #78c581;
+  }
+  
+   .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #78c581;
+  }
+ .timeline_container .right .timeline_item  .time_pin:before{
+	
+	border:3px solid #78c581;
+	
+  }
+  .timeline_container .right .timeline_item:hover:before{
+	border-color: transparent #78c581 transparent transparent;
+	
+  }
+ .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #78c581;
+	
+  }
+ /* ==========================================================
+! CONTACTS
+========================================================== */
+input[type=text]:focus, textarea:focus {
+	border-bottom:2px solid #78c581;
+	
+}
+.inner-addon .fa {
+  color:#78c581;
+}
+/* ==========================================================
+! GOOGLE MAP
+========================================================== */
+.map-footer{
+	background:rgba(120, 197, 129, 0.8);
+}
+
+.social-wrap a:hover{
+	color:#78c581;
+	border:2px solid #78c581;
+ 
+}	
+/* ==========================================================
+! COMMENTS
+========================================================== */
+.u-profile a{
+	color:#78c581;
+}
+.flex-control-paging li a.flex-active{
+	border:2px solid #78c581;
+}
+.flex-control-paging li a:hover {
+ border:2px solid #78c581;
+}
+.u-comment{background-image: url(../../images/openquote4.png);}
+.u-comment > div{
+	background-image: url(../../images/closequote4.png);
+}
+/* ==========================================================
+! PURCHASE
+========================================================== */
+.purchase_i{
+	border:2px solid #78c581;
+	
+}

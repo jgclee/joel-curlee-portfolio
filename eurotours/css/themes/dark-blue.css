@@ -1,0 +1,175 @@
+/* ==========================================================
+! Buttons
+========================================================== */
+.btn-red{
+	background:#0294d0;
+	color:#fff;
+	border:2px solid #0294d0;
+	border-radius:5px;
+}
+.btn-red:hover{
+	background:#79e7e8;
+	border:2px solid #79e7e8;
+}
+.btn-white:hover{
+	background:#0294d0;
+	border:2px solid #0294d0;
+}
+/* ==========================================================
+! section header
+========================================================== */
+
+ .header_line{
+	background:#0294d0;
+}
+
+/* ==========================================================
+! FEATURES
+========================================================== */
+
+.feature_i{
+
+	border:2px solid #0294d0;
+	
+}
+
+
+
+.feature_i:after {
+	
+	box-shadow: 0 0 0 2px #0294d0;
+	
+}
+.feature_i:hover {
+	background: #0294d0;
+	
+}
+
+
+.f_icon{
+	color:#0294d0;
+	
+}
+
+/* ==========================================================
+! PORTFOLIO
+========================================================== */
+
+.filter.active, .filter:hover{
+	background:#0294d0;
+  }
+  
+  .portfolio_item .port_item_cont {
+    background-color: rgba(2, 148, 208, 0.8);
+	}
+/* ==========================================================
+! COUNTER
+========================================================== */
+.count_icon{
+	background:#0294d0;
+}
+.c_line{
+	background:#0294d0;
+}
+/* ==========================================================
+! OUR TEAM
+========================================================== */
+
+.team_item .team_item_cont {
+   
+    background-color: rgba(2, 148, 208, 0.8);
+   
+	}
+/* ==========================================================
+ ! PRICE TABLE
+===========================================================*/
+.standout .plan_title{
+	background:#0294d0;
+	}
+.plane_line span{
+	background:#0294d0;
+}
+.standout .plan_inner{
+	background:#156384;
+}
+.standout .plan_inner li.label{
+	color:#0294d0;
+}
+.standout .plan_inner .btn_plane{
+	background:#0294d0;
+	border:2px solid #0294d0;
+	}
+/* ==========================================================
+! TIMELINE
+========================================================== */	
+.timeline_container .year span{
+	background:#0294d0;
+}
+.timeline_container .timeline_item:hover{
+	background:#0294d0;
+  }
+  .timeline_container .left .timeline_item  .time_pin:before{
+	border:3px solid #0294d0;
+  }
+  
+   .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #0294d0;
+  }
+ .timeline_container .right .timeline_item  .time_pin:before{
+	
+	border:3px solid #0294d0;
+	
+  }
+  .timeline_container .right .timeline_item:hover:before{
+	border-color: transparent #0294d0 transparent transparent;
+	
+  }
+ .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #0294d0;
+	
+  }
+ /* ==========================================================
+! CONTACTS
+========================================================== */
+input[type=text]:focus, textarea:focus {
+	border-bottom:2px solid #0294d0;
+	
+}
+.inner-addon .fa {
+  color:#0294d0;
+}
+/* ==========================================================
+! GOOGLE MAP
+========================================================== */
+.map-footer{
+	background:rgba(2, 148, 208, 0.8);
+}
+
+.social-wrap a:hover{
+	color:#0294d0;
+	border:2px solid #0294d0;
+ 
+}	
+/* ==========================================================
+! COMMENTS
+========================================================== */
+.u-profile a{
+	color:#0294d0;
+}
+.flex-control-paging li a.flex-active{
+	border:2px solid #0294d0;
+}
+.flex-control-paging li a:hover {
+ border:2px solid #0294d0;
+}
+.u-comment{background-image: url(../../images/openquote5.png);}
+.u-comment > div{
+	background-image: url(../../images/closequote5.png);
+}
+/* ==========================================================
+! PURCHASE
+========================================================== */
+.purchase_i{
+	border:2px solid #0294d0;
+	
+}

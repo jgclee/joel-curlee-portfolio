@@ -1,0 +1,175 @@
+/* ==========================================================
+! Buttons
+========================================================== */
+.btn-red{
+	background:#674172;
+	color:#fff;
+	border:2px solid #674172;
+	border-radius:5px;
+}
+.btn-red:hover{
+	background:#a86eb9;
+	border:2px solid #a86eb9;
+}
+.btn-white:hover{
+	background:#a86eb9;
+	border:2px solid #a86eb9;
+}
+/* ==========================================================
+! section header
+========================================================== */
+
+ .header_line{
+	background:#674172;
+}
+
+/* ==========================================================
+! FEATURES
+========================================================== */
+
+.feature_i{
+
+	border:2px solid #674172;
+	
+}
+
+
+
+.feature_i:after {
+	
+	box-shadow: 0 0 0 2px #674172;
+	
+}
+.feature_i:hover {
+	background: #674172;
+	
+}
+
+
+.f_icon{
+	color:#674172;
+	
+}
+
+/* ==========================================================
+! PORTFOLIO
+========================================================== */
+
+.filter.active, .filter:hover{
+	background:#674172;
+  }
+  
+  .portfolio_item .port_item_cont {
+    background-color: rgba(103, 65, 114, 0.8);
+	}
+/* ==========================================================
+! COUNTER
+========================================================== */
+.count_icon{
+	background:#674172;
+}
+.c_line{
+	background:#674172;
+}
+/* ==========================================================
+! OUR TEAM
+========================================================== */
+
+.team_item .team_item_cont {
+   
+    background-color: rgba(103, 65, 114, 0.8);
+   
+	}
+/* ==========================================================
+ ! PRICE TABLE
+===========================================================*/
+.standout .plan_title{
+	background:#674172;
+	}
+.plane_line span{
+	background:#674172;
+}
+.standout .plan_inner{
+	background:#402A46;
+}
+.standout .plan_inner li.label{
+	color:#674172;
+}
+.standout .plan_inner .btn_plane{
+	background:#674172;
+	border:2px solid #674172;
+	}
+/* ==========================================================
+! TIMELINE
+========================================================== */	
+.timeline_container .year span{
+	background:#674172;
+}
+.timeline_container .timeline_item:hover{
+	background:#674172;
+  }
+  .timeline_container .left .timeline_item  .time_pin:before{
+	border:3px solid #674172;
+  }
+  
+   .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #674172;
+  }
+ .timeline_container .right .timeline_item  .time_pin:before{
+	
+	border:3px solid #674172;
+	
+  }
+  .timeline_container .right .timeline_item:hover:before{
+	border-color: transparent #674172 transparent transparent;
+	
+  }
+ .timeline_container .left .timeline_item:hover:before{
+	border-color: transparent transparent transparent #674172;
+	
+  }
+ /* ==========================================================
+! CONTACTS
+========================================================== */
+input[type=text]:focus, textarea:focus {
+	border-bottom:2px solid #674172;
+	
+}
+.inner-addon .fa {
+  color:#674172;
+}
+/* ==========================================================
+! GOOGLE MAP
+========================================================== */
+.map-footer{
+	background:rgba(103, 65, 114, 0.8);
+}
+
+.social-wrap a:hover{
+	color:#674172;
+	border:2px solid #674172;
+ 
+}	
+/* ==========================================================
+! COMMENTS
+========================================================== */
+.u-profile a{
+	color:#674172;
+}
+.flex-control-paging li a.flex-active{
+	border:2px solid #674172;
+}
+.flex-control-paging li a:hover {
+ border:2px solid #674172;
+}
+.u-comment{background-image: url(../../images/openquote6.png);}
+.u-comment > div{
+	background-image: url(../../images/closequote6.png);
+}
+/* ==========================================================
+! PURCHASE
+========================================================== */
+.purchase_i{
+	border:2px solid #674172;
+	
+}
